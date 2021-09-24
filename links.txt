@@ -1,0 +1,6 @@
+All the links and steps for the installation procedure
+
+Download link for the theme packet
+https://github.com/paullinuxthemer/McOS-Mint-Cinnamon-Edition/archive/refs/heads/master.zip
+
+Copy the unpacked file to ~/.themes
